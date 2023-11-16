@@ -1,7 +1,5 @@
-# BitCoinAnalyse
+# Titanic Kaggle
 
-This is a project in Kaggle.
-It analyses the features of BitCoin during the time between 2019 to 2021.
-Kaggle link: https://www.kaggle.com/code/smartsunny/starter-bitcoin-historical-data-1d758000-5/notebook
+To memorize my first Kaggle Competition, I will record the model and the mathmetical method that applied in my code.
 
-I change some features in the functions.
+Lastest version: 2023/11/17
