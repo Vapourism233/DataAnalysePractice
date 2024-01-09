@@ -1,5 +1,7 @@
-# Titanic Kaggle
+# Data analysis competition practice
 
-To memorize my first Kaggle Competition, I will record the model and the mathmetical method that applied in my code.
+1.Kaggle Titanic prediction
+
+2.Signate renting house prediction
 
 Lastest version: 2023/12/12
